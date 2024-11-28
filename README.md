@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Lucas Patrício 👋
 
 - 🔭 Hoje trabalho na área de logística momentaneamente, mas quero trabalhar com análise de dados
-- 🌱 Estudando MySQL
+- 🌱 Estudando e aprimorando em Python
 - 💻 Para entrar em contato comigo, use este e-mail: patriciolucas059@gmail.com
 
 <div>
