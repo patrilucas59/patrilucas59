@@ -1,4 +1,4 @@
-## Olá! Eu sou Lucas Patrício 👋
+## Olá! Eu sou o Lucas Patrício 👋
 
 - 🔭 Hoje trabalho na área de logística momentaneamente, mas quero trabalhar com análise de dados
 - 🌱 Estudando MySQL
