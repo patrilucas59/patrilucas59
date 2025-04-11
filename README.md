@@ -1,4 +1,4 @@
-## Olá! Eu sou o Lucas Patrício 👋
+## Olá! Eu sou o Lucas Patrício e estou no início da minha carreira como programador👋
 
 - 🔭 Hoje eu trabalho como desenvolver web junior em uma aceleradora chamada Osten Moove. 
 - 🌱 Estudando e aprimorando em CSS e JavaScript
