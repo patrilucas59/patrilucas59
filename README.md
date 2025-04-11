@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Lucas Patrício 👋
 
-- 🔭 Hoje trabalho na área de logística momentaneamente, mas quero trabalhar com análise de dados
-- 🌱 Estudando e aprimorando em Python
+- 🔭 Hoje eu trabalho como desenvolver web junior em uma aceleradora chamada Osten Moove. 
+- 🌱 Estudando e aprimorando em CSS e JavaScript
 - 💻 Para entrar em contato comigo, use este e-mail: patriciolucas059@gmail.com
 
 <div>
