@@ -1,7 +1,7 @@
-## Olá! Eu sou o Lucas Patrício e estou no início da minha carreira como programador👋
+## Olá! Eu sou o Lucas Patrício e estou no início da minha carreira como desenvolvedor👋
 
-- 🔭 Hoje eu trabalho como desenvolver web junior em uma aceleradora chamada Osten Moove. 
-- 🌱 Estudando e aprimorando em CSS e JavaScript
+- 🔭 Hoje eu trabalho como desenvolver front-end junior em uma aceleradora chamada Osten Moove. 
+- 🌱 Estudando e aprimorando em JavaScript, TypeScript e React
 - 💻 Para entrar em contato comigo, use este e-mail: patriciolucas059@gmail.com
 
 <div>
