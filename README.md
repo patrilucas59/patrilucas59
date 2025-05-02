@@ -6,7 +6,7 @@
 
 - 💻 **Linguagens:** JavaScript | TypeScript | Python
 - ⚛️ **Frameworks e bibliotecas:** React | Styled-Components
-- 🛠️ **Ferramentas:** Git | GitHub | Vite | ESLint | Prettier | DevOps
+- 🛠️ **Ferramentas:** Git | GitHub | ESLint | Prettier | DevOps
 - 📦 **Gerenciadores de pacotes:** Yarn | npm
 
 ---
