@@ -4,10 +4,10 @@
 
 ### 🚀 Tecnologias e Ferramentas que mais uso ultimamente
 
-- 💻 **Linguagens:** JavaScript | TypeScript | Python
+- 💻 **Linguagens:** JavaScript | TypeScript
 - ⚛️ **Frameworks e bibliotecas:** React | Styled-Components
 - 🛠️ **Ferramentas:** Git | GitHub | ESLint | Prettier | DevOps
-- 📦 **Gerenciadores de pacotes:** Yarn | npm
+- 📦 **Gerenciadores de pacotes:** Yarn
 
 ---
 
@@ -36,7 +36,6 @@
   <img align="center" alt="Lucas-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lucas-DevOps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" />
  </p>
 
