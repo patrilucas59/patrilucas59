@@ -1,13 +1,13 @@
-## Olá! Eu sou o Lucas Patrício e sou desenvolvedor front-end jr. e estou me apaixonando cada vez mais pela área da tecnologia, sempre buscando evolução e crescimento profissional.
+## Olá! Eu sou o Lucas Patrício e sou desenvolvedor front-end e estou me apaixonando cada vez mais pela área da tecnologia, sempre buscando evolução e crescimento profissional.
 
 ---
 
 ### 🚀 Tecnologias e Ferramentas que mais uso ultimamente
 
 - 💻 **Linguagens:** JavaScript | TypeScript
-- ⚛️ **Frameworks e bibliotecas:** React | Styled-Components
+- ⚛️ **Frameworks e bibliotecas:** React | Styled-Components | Tailwind
 - 🛠️ **Ferramentas:** Git | GitHub | ESLint | Prettier | DevOps
-- 📦 **Gerenciadores de pacotes:** Yarn
+- 📦 **Gerenciadores de pacotes:** Yarn | Npm
 
 ---
 
