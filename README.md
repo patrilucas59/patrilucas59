@@ -20,7 +20,7 @@
 
 ---
 
-### 📬 Entre em contato
+### 📬 Entre em contato:
  - 📧 E-mail: patriciolucas059@gmail.com  
 
 <div>
