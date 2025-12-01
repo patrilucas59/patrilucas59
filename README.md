@@ -13,8 +13,8 @@
 
 ### 🌱 Em constante aprendizado. Aprimorando meus conhecimentos em:
 
-- React
-- Node.js
+- React.js
+- Angular.js
 - Arquitetura de projeto React escaláveis
 - JavaScript e TypeScript
 
