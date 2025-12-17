@@ -5,7 +5,7 @@
 ### 🚀 Tecnologias e Ferramentas que mais uso ultimamente
 
 - 💻 **Linguagens:** JavaScript | TypeScript
-- ⚛️ **Frameworks e bibliotecas:** React | Styled-Components | Tailwind
+- ⚛️ **Frameworks e bibliotecas:** React | Styled-Components | Tailwind | Angular
 - 🛠️ **Ferramentas:** Git | GitHub | ESLint | Prettier | DevOps
 - 📦 **Gerenciadores de pacotes:** Yarn | Npm
 
@@ -14,7 +14,7 @@
 ### 🌱 Em constante aprendizado. Aprimorando meus conhecimentos em:
 
 - React.js
-- Angular.js
+- Angular
 - Arquitetura de projeto React escaláveis
 - JavaScript e TypeScript
 
