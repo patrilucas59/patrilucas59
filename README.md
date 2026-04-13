@@ -18,8 +18,8 @@
 - Arquitetura de projeto React escaláveis
 - JavaScript e TypeScript
 
-Portfólio:
-https://portfolio-lucas-patricio-dev.vercel.app/
+### 🌐 Meu Portfólio
+🔗 https://portfolio-lucas-patricio-dev.vercel.app/
 
 ---
 
