@@ -1,4 +1,4 @@
-## Olá! Eu sou o Lucas Patrício e sou desenvolvedor front-end e estou me apaixonando cada vez mais pela área da tecnologia, sempre buscando evolução e crescimento profissional.
+## Olá! Eu sou o Lucas Patrício e sou desenvolvedor front-end apaixonado por tecnologia, sempre buscando evolução e crescimento profissional.
 
 ---
 
