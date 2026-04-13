@@ -15,7 +15,7 @@
 
 - React.js
 - PHP
-- Arquitetura de projeto React escaláveis
+- Arquitetura de projetos React escaláveis
 - JavaScript e TypeScript
 
 ### 🌐 Meu Portfólio
